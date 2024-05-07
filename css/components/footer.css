@@ -1,0 +1,18 @@
+.footer {
+  background-color: rgb(40, 40, 40);
+  padding: 100px 0;
+  margin-top: 2em;
+  text-align: center;
+}
+
+.logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px
+}
+
+.fab {
+  color: green;
+  font-size: 3em;
+}
